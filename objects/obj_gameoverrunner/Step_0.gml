@@ -1,0 +1,1 @@
+x = x; // no-op to keep the room alive
