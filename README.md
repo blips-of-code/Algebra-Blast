@@ -1,4 +1,5 @@
 Title of Game: Algebra Blast
+
 Content: (math, physical science, computer science, earth science, other)
 Mathematics game for 6th-7th graders teaching them basic algebra. 
 
